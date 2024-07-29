@@ -5,12 +5,14 @@ For detailed description of the cases please refer to our paper published on [Ad
 
 If you find our work inspiring please cite
 ```
-@article{rlformsrs,
-  title={Adaptive Actuation of Magnetic Soft Robots Using Deep Reinforcement Learning},
+@article{yao2023adaptive,
+  title={Adaptive actuation of magnetic soft robots using deep reinforcement learning},
   author={Yao, Jianpeng and Cao, Quanliang and Ju, Yuwei and Sun, Yuxuan and Liu, Ruiqi and Han, Xiaotao and Li, Liang},
   journal={Advanced Intelligent Systems},
+  volume={5},
+  number={2},
+  pages={2200339},
   year={2023},
-  publisher={Wiley},
-  doi={10.1002/aisy.202200339}
+  publisher={Wiley Online Library}
 }
 ```
